@@ -220,7 +220,7 @@ body#photo4 {
     top: 0.08em;
 	left:1em;
 	color:white;
-	font-family: 'futura_oblique', BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
+	font-family: Futura, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -234,7 +234,7 @@ body#photo4 {
     top: .08em;
 	left:1em;
 	color:white;
-	font-family: 'futura_oblique', BebasNeueRegular, 'Century Gothic',  Verdana, Helvetica, sans-serif;
+	font-family: Futura, BebasNeueRegular, 'Century Gothic',  Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -250,7 +250,7 @@ body#photo4 {
     top: 0.06em;
 	left:1em;
 	color:white;
-	font-family: 'futura_oblique', BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
+	font-family: Futura, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -265,7 +265,7 @@ body#photo4 {
     top: 0.06em;
 	left:1em;
 	color:white;
-	font-family: futura_oblique, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
+	font-family: Futura, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -281,7 +281,7 @@ body#photo4 {
     top: 0.06em;
 	left:1em;
 	color:white;
-	font-family: 'futura_oblique', BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
+	font-family: Futura, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -296,7 +296,7 @@ body#photo4 {
     top: 0.06em;
 	left:1em;
 	color:white;
-	font-family: 'futura_oblique', BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
+	font-family: Futura, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -312,7 +312,7 @@ body#photo4 {
     top: 0.06em;
 	left:1em;
 	color:white;
-	font-family: 'futura_oblique', BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
+	font-family: Futura, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -327,7 +327,7 @@ body#photo4 {
     top: 0.06em;
 	left:1em;
 	color:white;
-	font-family:  'futura_oblique', BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
+	font-family: Futura, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -344,7 +344,7 @@ body#photo4 {
     top: 0.06em;
 	left:1em;
 	color:white;
-	font-family:  'futura_oblique', BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
+	font-family:  Futura, BebasNeueRegular, 'Century Gothic', Verdana, Helvetica, sans-serif;
 	letter-spacing: .16em;
 	text-transform: uppercase;
 	font-size: 4em;
@@ -791,7 +791,7 @@ body#bio{
 	}
 		
 #bio .nav li{
-	font-family: 'futura_oblique', helvetica, sans-serif;
+	font-family: Futura, helvetica, sans-serif;
 	font-size:.5em;
 	left:-1em;
 	top:-3em;
@@ -825,7 +825,7 @@ body#about{
 	}
 		
 #about .nav li{
-	font-family: 'futura_oblique', helvetica, sans-serif;
+	font-family: Futura, helvetica, sans-serif;
 	font-size:.5em;
 	left:-15px;
 	top:-3em;
@@ -859,7 +859,7 @@ body#updates{
 	}
 		
 #updates .nav li{
-	font-family: 'futura_oblique', helvetica, sans-serif;
+	font-family: Futura, helvetica, sans-serif;
 	font-size:.5em;
 	left:-1em;
 	top:-3em;
@@ -893,7 +893,7 @@ body#music{
 	}
 		
 #music .nav li{
-	font-family: 'futura_oblique', helvetica, sans-serif;
+	font-family: Futura, helvetica, sans-serif;
 	font-size:.5em;
 	left:-1em;
 	top:-3em;
@@ -926,7 +926,7 @@ body#music{
 	}
 		
 #navvideo li{
-	font-family: 'futura_oblique', helvetica, sans-serif;
+	font-family: Futura, helvetica, sans-serif;
 	font-size:.5em;
 	left:-1em;
 	top:-3em;
@@ -948,7 +948,7 @@ body#music{
 	}
 	
 #links .nav li{
-	font-family: 'futura_oblique', helvetica,sans-serif;
+	font-family: Futura, helvetica,sans-serif;
 	font-size:.5em;
 	left:-1em;
 	top:-3em;
@@ -969,7 +969,7 @@ body#music{
 	}
 		
 #photos .nav li{
-	font-family: 'futura_oblique', helvetica, sans-serif;
+	font-family: Futura, helvetica, sans-serif;
 	font-size:.5em;
 	left:-1em;
 	top:-3em;
@@ -988,7 +988,7 @@ body#music{
 	}
 		
 #photo4 .nav li{
-	font-family: 'futura_oblique', helvetica, sans-serif;
+	font-family: Futura, helvetica, sans-serif;
 	font-size:.5em;
 	left:-1em;
 	top:-3em;
